@@ -1,1 +1,1 @@
-# Ejemplo comsulta Registry
+# Ejemplo consulta Registry
